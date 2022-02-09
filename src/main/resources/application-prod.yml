@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://university:5432/university
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
